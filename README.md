@@ -1,4 +1,4 @@
-Results on four ceramic tiles
+A semi-quantitative look at four ceramic tiles from mosaictile dot com, named "Moonstone White Matte MCSQ-11M", "Cherry Blossom Pink MCSQ-1190S", "Glacier Blue MCSQ-1245S" and "Pistachio Green MCSQ-1230S".
 
 ```
 tile   CIE L*a*b*             hex    Munsell       ISCC-NBS name
